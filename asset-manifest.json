@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guess-the-flag/static/css/main.10f4c7f8.css",
+    "main.js": "/guess-the-flag/static/js/main.a83bf458.js",
+    "index.html": "/guess-the-flag/index.html",
+    "main.10f4c7f8.css.map": "/guess-the-flag/static/css/main.10f4c7f8.css.map",
+    "main.a83bf458.js.map": "/guess-the-flag/static/js/main.a83bf458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f4c7f8.css",
+    "static/js/main.a83bf458.js"
+  ]
+}
