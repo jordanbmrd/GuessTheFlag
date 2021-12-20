@@ -1,0 +1,28 @@
+.FlagApp {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.gameComp {
+	height: 100px;
+}
+.FlagApp small {
+	text-align: center;
+	color: gray;
+	padding: 20px 0;
+}
+header {
+	width: 100vw;
+	height: 15vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background-position: center;
+}
+header .title {
+	color: white;
+	font-size: 50px;
+	text-shadow: -2px 2px 2px #000000;
+}
