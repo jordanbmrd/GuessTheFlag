@@ -7,7 +7,7 @@ class FlagApp extends Component {
 		return (
 		  <div className="FlagApp">
 			  <div>
-			    <header style={{backgroundImage: 'url("/bg.jpeg")'}}>
+			    <header style={{backgroundImage: 'url("./bg.jpeg")'}}>
 			    	<h1 className="title">Guess The Flag</h1>
 			    </header>
 
